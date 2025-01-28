@@ -1,0 +1,6 @@
+---
+title: "note2"
+date: "2025-01-28"
+----
+Oh I forgot to create a note for excercise 2b
+So now I create it here
